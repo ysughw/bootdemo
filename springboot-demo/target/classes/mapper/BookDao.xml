@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ysughw.bootdemo.api.dao.BookDao">
+    
+	<select id="findList" resultType="com.ysughw.bootdemo.api.entity.Book">
+		SELECT id,name FROM test_book
+	</select>
+	
+</mapper>
