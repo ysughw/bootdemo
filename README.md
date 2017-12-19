@@ -7,6 +7,7 @@
 5.	mybatis generator
 
 ## 目录简介
+```
 bootdemo/ 龙果开源-后台管理系统
 ├── src/ 源码
 │   ├── main/
@@ -16,6 +17,6 @@ bootdemo/ 龙果开源-后台管理系统
 │   └── test/
 │
 └── pom.xml maven配置文件
-
+```
 ## 后台截图
 ![david](https://avatars1.githubusercontent.com/u/13217355)
