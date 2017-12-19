@@ -18,5 +18,5 @@ bootdemo/ springboot练习项目
 │
 └── pom.xml maven配置文件
 ```
-## 后台截图
+## 作者近照
 ![david](https://avatars1.githubusercontent.com/u/13217355)
