@@ -7,7 +7,6 @@
 5.	mybatis generator
 
 ## 目录简介
-```
 bootdemo/ 龙果开源-后台管理系统
 ├── src/ 源码
 │   ├── main/
